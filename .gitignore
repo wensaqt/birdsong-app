@@ -1,0 +1,19 @@
+# Environnement virtuel
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Fichiers de log
+*.log
+
+# Dossiers de configuration IDE
+.vscode/
+.idea/
+
+# Fichiers spécifiques à Mac
+.DS_Store
+
+# Fichiers spécifiques à Windows
+Thumbs.db
